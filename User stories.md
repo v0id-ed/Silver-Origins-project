@@ -12,5 +12,3 @@ User story 3:
 As a storymode-game enthusiast, I want this game to be worthwhile, with many different stages.  
 Acceptance criteria 1: The game will have enough stages to keep the average player in the story for 1-2 months, depending on how much they play on an average basis.  
 Acceptance criteria 2: The game provides a worthwhile experience for all users.
-
-\-The easiest one to write was the first one, and the hardest was the second. These user stories will be helpful when I am doing the wireframing for this game.
