@@ -1,1 +1,1 @@
-These are documents for a project I did in my Software and App Design program, where I created a game proposal, mockups, and testing plans for a game idea about Silver the Hedgehog's origin story. Maybe I'll make this idea a reality in the future, we'll see.
+These are documents for a project assignment I did in my Software and App Design program, where I had to create a game proposal, mockups, and testing plans for a game idea about Silver the Hedgehog's origin story. Maybe I'll make this idea a reality in the future, we'll see.
